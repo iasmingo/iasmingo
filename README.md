@@ -1,7 +1,7 @@
 ### About me
-- I'm a CS student at Universidade Federal de Pernambuco
-- I'm currently interested in competitive programming, AI, and software engineering
-- You can reach me at iasmin.ufpe@gmail.com
+- CS student at Universidade Federal de Pernambuco
+- Currently interested in competitive programming, AI, and software engineering
+- Reach me at iasmin.ufpe@gmail.com
 
 <!--
 **iasmingo/iasmingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
