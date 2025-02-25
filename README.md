@@ -1,6 +1,6 @@
 ### About me
 - CS student at Universidade Federal de Pernambuco
-- Currently interested in web development, data, and AI
+- Currently interested in web development, data, and computer networks
 - Reach me at iasmin.ufpe@gmail.com
 
 <!--
